@@ -78,7 +78,6 @@ iframe {
 }
 
 .twitter-tweet-rendered {
-	margin-top: -32px !important;
 	transform: scale(1.5) !important;
 	transform-origin: 0 0 !important;
 }
